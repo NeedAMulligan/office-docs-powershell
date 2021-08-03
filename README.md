@@ -8,11 +8,6 @@ This repository holds reference content of Office PowerShell cmdlets for help pu
 
 ## Learn How To Contribute   
 
-
-DONT FORGET THAT YOU ARE A DOUCHE
-
-
-
 Anyone who is interested can contribute to the Microsoft Office PowerShell reference topics. Your contributions will go directly into the Microsoft Office products and show up in Get-Help for the given Office cmdlet.
 
 > [!NOTE]
